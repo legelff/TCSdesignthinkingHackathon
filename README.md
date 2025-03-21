@@ -44,3 +44,10 @@ If you have any questions or suggestions or even have a chat, feel free to reach
 - Email: business@l145.be
 - LinkedIn: https://www.linkedin.com/in/aryan-shah-l145
 - GitHub: legelff
+
+## WaterGuard Team
+- Aryan Shah (UI/UX, Prototype)
+- Karolis Kalinauskas (Data Solution)
+- Irakoze Darlo (Market Research)
+- Evgen Vovk (Problem Statement)
+- Ryno Barnard (Pitcher)
