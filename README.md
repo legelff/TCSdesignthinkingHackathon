@@ -1,5 +1,7 @@
 # WaterGuard - Sustainable River Monitoring
 
+**Prototype**: [Figma Prototype - WaterGuard](https://www.figma.com/proto/C9k0XypQb8lyF0XUvR4GYl/WaterGuard?page-id=7002%3A134&node-id=7004-1282&p=f&viewport=25%2C257%2C0.46&t=cSA7XXMehytUKWKK-1&scaling=scale-down&content-scaling=fixed)
+
 ## 🏆 Runner-Up at Thomas More Hackathon
 WaterGuard is an innovative solution developed during the **Thomas More Hackathon**, organized in collaboration with **Tata Consultancy Services** and **Stad Mechelen**. Our project focuses on **sustainability for the River Dijle in Mechelen**, using autonomous technology to monitor and improve water quality.
 
